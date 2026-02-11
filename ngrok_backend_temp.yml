@@ -1,0 +1,7 @@
+version: 2
+authtoken: 36KX1H8tq6wpA3rKAvuYUvSFOHS_52LcvTZ1RQvCcBx2CLosP
+web_addr: localhost:4040
+tunnels:
+  backend_temp:
+    proto: http
+    addr: 8000

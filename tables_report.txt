@@ -1,0 +1,44 @@
+Found 4 tables:
+
+=== Table: n8n_vectors ===
+Column                         Type                 Nullable  
+------------------------------------------------------------
+id                             uuid                 NO        
+text                           text                 YES       
+metadata                       jsonb                YES       
+embedding                      USER-DEFINED         YES       
+
+
+=== Table: search_query_cache ===
+Column                         Type                 Nullable  
+------------------------------------------------------------
+id                             uuid                 NO        
+query_text                     text                 NO        
+embedding                      USER-DEFINED         YES       
+strategy_used                  text                 YES       
+results                        jsonb                YES       
+created_at                     timestamp with time zone YES       
+insight                        text                 YES       
+
+
+=== Table: student_profiles ===
+Column                         Type                 Nullable  
+------------------------------------------------------------
+id                             uuid                 NO        
+text                           text                 YES       
+metadata                       jsonb                YES       
+embedding                      USER-DEFINED         YES       
+
+
+=== Table: user_profile_chunks ===
+Column                         Type                 Nullable  
+------------------------------------------------------------
+id                             uuid                 NO        
+user_id                        uuid                 NO        
+chunk_type                     character varying    NO        
+content                        text                 YES       
+embedding                      USER-DEFINED         YES       
+search_vector                  tsvector             YES       
+created_at                     timestamp with time zone YES       
+
+

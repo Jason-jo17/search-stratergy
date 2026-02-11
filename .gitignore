@@ -1,0 +1,16 @@
+node_modules/
+.env
+.env.*
+dist/
+build/
+.next/
+.DS_Store
+*.log
+.vscode/
+.idea/
+.gemini/
+brain/
+*.pyc
+__pycache__/
+venv/
+env/

@@ -1,0 +1,8 @@
+version: 2
+authtoken: 36KX1H8tq6wpA3rKAvuYUvSFOHS_52LcvTZ1RQvCcBx2CLosP
+web_addr: localhost:4040
+tunnels:
+  frontend_static:
+    proto: http
+    addr: 127.0.0.1:3000
+    hostname: uncausative-cenogenetically-valene.ngrok-free.dev

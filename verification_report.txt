@@ -1,0 +1,66 @@
+=== Student Data Verification Report ===
+
+Total Student Profiles: 1113
+
+=== Sample Records (First 5) ===
+
+--- Record 1 ---
+ID: 2e74e5e4-3ea6-4b65-9430-3b88c9a0e2c1
+Metadata Analysis:
+  - Contains Project Info? NO
+  - Keys: source, blobType, ingested_at
+  - Full Metadata: {
+  "source": "student_skills_sheet",
+  "blobType": "application/json",
+  "ingested_at": "2025-12-01T16:27:54.527+05:30"
+}
+Text Content (First 200 chars): {"id":"5fa89e17-45f5-4997-a602-924ba44cb971","cgpa":0,"name":"SRUJAN  ","email":"srujan15kulal@gmail.com","branch":"CSE","skills":[{"tool_id":"081a72e1-e23d-490b-981c-28fb554b8d2b","tool_name":"Protot...
+
+--- Record 2 ---
+ID: 0a2b274b-7b4f-4903-aa15-5f27f5405c18
+Metadata Analysis:
+  - Contains Project Info? NO
+  - Keys: source, blobType, ingested_at
+  - Full Metadata: {
+  "source": "student_skills_sheet",
+  "blobType": "application/json",
+  "ingested_at": "2025-12-01T16:27:54.528+05:30"
+}
+Text Content (First 200 chars): {"id":"6ae177df-7e1b-4f33-8d77-a92098f8cca0","cgpa":0,"name":"JEEVAN A","email":"jeevan.a.cs24@sahyadri.edu.in","branch":"AI & ML","skills":[{"tool_id":"0efbfa32-7499-4fa2-b44a-10abebf2fdcf","tool_nam...
+
+--- Record 3 ---
+ID: 8afa5f90-594d-4945-ab45-afa0f7aff61e
+Metadata Analysis:
+  - Contains Project Info? NO
+  - Keys: source, blobType, ingested_at
+  - Full Metadata: {
+  "source": "student_skills_sheet",
+  "blobType": "application/json",
+  "ingested_at": "2025-12-01T16:27:54.529+05:30"
+}
+Text Content (First 200 chars): {"id":"84695f14-a57e-407b-bd4e-6a5ce2dc61d8","cgpa":0,"name":"SHARANYA U ALVA U ALVA","email":"alvasharanya4@gmail.com","branch":"AI & ML","skills":[{"tool_id":"0efbfa32-7499-4fa2-b44a-10abebf2fdcf","...
+
+--- Record 4 ---
+ID: 3d195b89-7f04-42bb-9002-fe8e820b6ea5
+Metadata Analysis:
+  - Contains Project Info? NO
+  - Keys: source, blobType, ingested_at
+  - Full Metadata: {
+  "source": "student_skills_sheet",
+  "blobType": "application/json",
+  "ingested_at": "2025-12-01T16:27:54.530+05:30"
+}
+Text Content (First 200 chars): {"id":"8a9a3d24-1ade-4385-a11f-c7cd117ad6a1","cgpa":0,"name":"SHAM PATIL","email":"shamrao.patil.cs24@sahyadri.edu.in","branch":"AI & ML","skills":[{"tool_id":"0efbfa32-7499-4fa2-b44a-10abebf2fdcf","t...
+
+--- Record 5 ---
+ID: dd2f4c68-1679-42b5-b3e4-e2bf97614ecf
+Metadata Analysis:
+  - Contains Project Info? NO
+  - Keys: source, blobType, ingested_at
+  - Full Metadata: {
+  "source": "student_skills_sheet",
+  "blobType": "application/json",
+  "ingested_at": "2025-12-01T16:27:54.531+05:30"
+}
+Text Content (First 200 chars): {"id":"9ecd76c3-53df-4024-8b8f-f4fb15b6b05d","cgpa":0,"name":"MANASWI A Y A Y","email":"manaswia.y@gmail.com","branch":"ECE","skills":[{"tool_id":"081a72e1-e23d-490b-981c-28fb554b8d2b","tool_name":"Pr...
+

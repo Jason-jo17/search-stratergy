@@ -1,0 +1,10 @@
+version: "2"
+authtoken: 36KX1H8tq6wpA3rKAvuYUvSFOHS_52LcvTZ1RQvCcBx2CLosP
+tunnels:
+  backend:
+    addr: 8001
+    proto: http
+  frontend:
+    addr: 3001
+    proto: http
+    hostname: uncausative-cenogenetically-valene.ngrok-free.dev
